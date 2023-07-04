@@ -1,0 +1,32 @@
+{
+	"folders": {},
+	"connections": {
+		"postgres-jdbc-188d93b4113-4aa33abc54b243aa": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "clientes",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "clientes",
+				"url": "jdbc:postgresql://localhost:5432/clientes",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"provider-properties": {},
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Desenvolvimento",
+			"color": "255,255,255",
+			"description": "Banco de dados de desenvolvimento",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
