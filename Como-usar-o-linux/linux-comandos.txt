@@ -1,0 +1,80 @@
+# Terminal Linux
+- Atividade
+
+1. Navegar pelo terminal
+	
+	cd /diretório
+
+2. Criar Pastas pelo terminal
+	
+	mkdir <arquivo>
+
+3. Criar arquivos pelo terminal
+	
+	touch <titulo-do-arquivo.extensão>
+
+4. Mover pastas e arquivos pelo terminal
+	
+	mv nome do arquivo de origem e destino.
+
+5. Copiar pastas e arquivos pelo terminal
+	
+	Para pasta 
+	cp  <pasta> <destino-da-copia>
+	Para arquivos
+	cp -r <arquivo> <destino-da-copia>
+
+6. Editar arquivos pelo terminal (nano)
+
+	Cria arquivo sem extensão.
+	nano <nome-do-arquivo>
+	Entra em modo de edição
+	ctrl+x fecha a edição
+	y confirma a edição
+	Titulo do arquivo <enter> para finalizar e salvar
+	
+	
+7. O que é permições do Linux?
+	
+	São usadas para vários fins, mas servem principalmente para proteger o sistema e os arquivos dos usuários. Manipular permissões
+	
+8. Caminho absoluto no linux
+	
+	Caminho absoluto é o caminho completo para um arquivo ou diretório.
+
+	Entrada: /home/aes/Documentos/Projetos/comandos linux
+	Saída:	exibe o diretório			comando.txt
+	
+9. Caminho relativo no linux
+
+	Caminho relativo é o caminho relativo ao diretório atual para chegar em um arquivo ou diretório.
+
+	Utilizando caminho relativo, poderíamos simplesmente especificar a pasta, já que a pasta está sob o diretório atual.
+	Entrada:~/Documentos/Projetos$ ls comandos\ linux/
+	Saída:	exibe o diretório			comando.txt
+
+10. Mudar permissões pelo perminal
+	
+	chmod é um comando que permite alterar as permissões de acesso de
+	arquivos e diretórios no Linux.
+
+	Para conceder a permissão
+	r=4, (read) leitura;
+	w=2 (writer) escrita;
+	x=1 (execution) execução
+	 
+	u-proprietário  		chmod <700> <arquivo/diretório>			libera todas as permissoes para o proprietário.
+	g-grupo 			chmod <070> <arquivo/diretório>			libera todas as permissoes para o grupo.
+	o-outros			chmod <007> <arquivo/diretório>			libera todas as permissoẽs para outros usuários.
+	
+	Para conceder a permissão
+	u-proprietário			chmod u+rwx <arquivo/diretório>			libera todas as permissoes para o proprietário.
+	g-grupo				chmod g+rwx <arquivo/diretório>			libera todas as permissoes para o grupo.
+	o-outros			chmod o+rwx <arquivo/diretório>			libera todas as permissoẽs para outros usuários.
+	
+	Para remover a permissão
+	u-proprietário			chmod u-rwx <arquivo/diretório>			remove todas as permissoes para o proprietário.
+	g-grupo				chmod g-rwx <arquivo/diretório>			remove todas as permissoes para o grupo.
+	o-outros			chmod o-rwx <arquivo/diretório>			remove todas as permissoẽs para outros usuários.
+
+
