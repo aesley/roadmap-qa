@@ -1,0 +1,54 @@
+Aula de exercicios 12
+
+Q.1 Considerando o trecho de Fluxograma representado e mantendo a mesma estrutura
+de lógica de programação, qual seria a sua transcrição válida para Linguagem Java?
+               |
+               v
+   ---------> ( )
+   |           |
+   |           v
+   |       ------------
+   |     | C <- C + 1 |
+   |      ------------
+   |           |
+   |           V
+   |           ^
+   |         /   \
+   --N-----< C>10  >
+             \   /
+               v
+               |
+               | S
+               v
+a) do {
+   c++;
+   } while(c<=10);
+
+b) do {
+   c++;
+   } while(c>10);
+
+c) while(c<-10){
+   c++;
+   }
+
+d) while(c>10) {
+   c++;
+   }
+Resposta: A
+
+Q.2 Qual será o resultado impresso pelo trecho de código escrito em Linguagem Java?
+
+int c = 1;
+do {
+if (C % 5 != 0)
+System.out.print(c);
+else break;
+c += 1;
+} while (c <= 10);
+
+a) 1 2 3 4 5 6 7 8 9 10
+b) 1 2 3 4 6 7 8 9
+c) 1 2 3 4
+d) Ocorrerá um erro de sintaxe
+Resposta: C

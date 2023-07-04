@@ -1,0 +1,45 @@
+Aula de exercicios 2
+
+Q.1 Assinale a alternativa que contém uma expressão lógica com resultado VERDADE. Considere X = 7 e Y = 4.
+a)	(X > 5) E (NÃO(Y < 3 ))
+b)	(X = 5) OU (Y > 3)
+c)	(Y > 10) E (X = 7)
+d)	NÃO(X = 7)
+Resposta: A
+
+Q.2 Assinale a alternativa que contenha o valor final da variável X após a execução do trecho de programa em Português
+estruturado abaixo.
+Considere os valores iniciais A=6, B=2, C=4, D=3.
+se .não. (A > 6) .e. .não. (B < 3) então
+X <- A / D
+senão
+X <- C * A
+ fim_se
+a) 2
+b) 12
+c) 24
+d) 48
+Resposta: C
+
+Q.3 Marque a alternativa que identifica o tipo de operador lógico utilizado na tabela abaixo.
+link para imagem: https://we.tl/t-1s7zroGTMC
+a)	.e.
+b)	.ou.
+c)	.if.
+d)	.nao.
+Resposta: B
+
+Q.4 Considerando os tipos de dados, relacione as colunas e, a seguir, assinale a alternativa com a sequencia correta.
+(1)	Inteiros
+(2)	Reais
+(3)	Caracteres
+(4)	Lógicos
+( ) 35;0;-56
+( ) .F;.V.
+( ) ”Rua Brigadeiro Lyra”
+( ) -0,5; 1,8; -4
+a)	3,1,4,2
+b)	2,4,3,1
+c)	1,2,3,4
+d)	1,4,3,2
+Resposta: D

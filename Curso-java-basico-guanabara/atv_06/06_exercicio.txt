@@ -1,0 +1,48 @@
+Aula de exercicios 6
+
+Q.1 Em relação aos tipos básicos de dados (tipos primitivos),assinale a opção INCORRETA.
+a) booleano (ou lógico): conjunto de valores falso ou verdadeiro.
+b) vetor: estrutura que suporta NxM posições de um mesmo tipo.
+c) caracter: qualquer conjunto de caracteres alfanuméricos.
+d) inteiro: qualquer número inteiro, negativo, nulo ou positivo.
+e) real: qualquer número real, negativo, nulo ou positivo.
+Resposta: B
+
+Q.2 Marque 1 para dados do tipo inteiro e 2 para dados de outros tipos.
+( ) "582.4"
+( ) .verdadeiro.
+( ) 105
+( ) -102
+( ) "0"
+( ) "informação"
+( ) 0.82
+a) 2,2,1,1,1,2,1
+b) 2,2,1,1,2,2,2
+c) 1,1,1,2,2,1,2
+d) 1,2,2,2,1,1,1
+Resposta: B
+
+Q.3 Assinale a alternativa que contenha somente nomes válidos de variáveis.
+a) índice, #pagina, contexto
+b) nomel, sobrenome2, senha3
+c) 2 nome, sobrenome, endereco
+d) 1 nome, 2-sobrenome, 3-senha
+Resposta: B
+
+Questão 4:
+Assinale a alternativa que completa corretamente a lacuna da afirmativa a seguir.
+São caracterizados como tipos [___________] os dados numéricos positivos ou negativos, excluindo-se destes
+qualquer fracionário.
+a) caracteres
+b) lógicos
+c) inteiros
+d) reais
+Item certo: c
+
+Questão 5:
+Considerando os tipos de dados, relacione as colunas e, a seguir, assinale a alternativa com a sequência correta.
+(1) Inteiros        ( ) 35; 0; -56
+(2) Reais           ( ) .F.;.v.
+(3) Caracteres      ( ) "Rua Brigadeiro Lyra"
+(4) Lógicos         ( ) -0,5; 1,8; -4
+Resposta: 1,4,3,2

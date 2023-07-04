@@ -1,0 +1,30 @@
+Aula de exercicios 15
+
+Q.1 Em relação ao uso do modificador static antes do cabeçalho de um método Java, podemos afirmar que:
+
+a) Static serve para indicar que os valores dos parâmetros são estáticos, isso é, não se modificam.
+b) Static serve para dizer que o método pertence à classe em que foi declarada, não a uma instância dela.
+c) O uso da palavra Static é obrigatório, já que sem ela, não criamos métodos.
+d) Não é permitido definir um método como static
+Resposta: B
+
+Q.2 Execute o trecho Java a seguir e marque a opção que contém o valor que será exibido na tela:
+
+static int f1(int n) {
+    return n%2;
+}
+static int f2(int n) {
+    return n*2;
+}
+static int f3(int a, int b) {
+    return a+b;
+}
+public static void main(String[] args) {
+    System.out.print(f3(f1(3), f2(5)));
+}
+
+a) 16
+b) 11.5
+c) 8
+d) 11
+Resposta: D

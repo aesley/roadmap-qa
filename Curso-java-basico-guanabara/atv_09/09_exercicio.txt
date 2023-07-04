@@ -1,0 +1,57 @@
+Aula de exercicios 9
+
+Q.1 Analise o algoritimo abaixo:
+
+Linha 1: inicio
+Linha 2: inteiro y, x, div;
+Linha 3: leia (y);
+Linha 4: x = y % 7;
+Linha 5: se x > 10
+Linha 6: então div = verdadeiro;
+Linha 7: senão div = 10;
+Linha 8: fim se;
+Linha 9: fim
+
+Assinale a opçãoque apresentaa linha que contém o erro na execução do algoritmo.
+
+a) Linha 2: inteiro y, x, div;
+b) Linha 4: x = y % 7;
+c) Linha 5: se x > 10
+d) Linha 6: então div = verdadeiro;
+e) Linha 7: senão div = 10;
+Resposta: D
+
+Q.2 Indique o resultado  de "x" do trecho do programa em português estruturado, mostrado abaixo.
+Para as saídas, considere os seguintes valores:
+
+A = 2; B = 3; C = 3; D = 4
+se .não. (D < 5) então
+x <- (A + B) * D
+senão
+x <- (C + A) * B
+fim_se
+Escreva X.
+
+a)15
+b)10
+c)25
+d)20
+Resposta: A
+
+Q.3 Dada a estrutura representada abaixo:
+
+int a = 5, b = 2;
+String c;
+if (a > b){
+c = "primeiro é maior"
+} else {
+c = "segundo é maior";
+}
+
+Que linha substituiria a condição apresentada?
+
+a) c = (a < b)?"segundo é maior":"primeiro é maior";
+b) c = (a <= b)?"segundo é maior":"primeiro é maior";
+c) c = (a > b)?"segundo é maior":"primeiro é maior";
+d) c = (a >= b)?"primeiro é maior":"segundo é maior";
+Resposta: B

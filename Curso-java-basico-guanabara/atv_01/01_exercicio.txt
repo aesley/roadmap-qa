@@ -1,0 +1,92 @@
+Aula de exercicios 1
+Q.1 Assinale a alternativa que contém a descrição correta de algoritmo.
+a)	Algoritmo é uma coleção de livros de uma mesma matéria, normalmente relacionada à Engenharia de Software.
+b)	Algoritmo é uma operação matemática usada, por exemplo, para calcular a intensidade sonora medida em decibéis.
+c)	Algoritmo é uma descrição das etapas de resolução de um problema ou a indicação ordenada de uma seqüência de ações
+bem-definidas.
+d)	Algoritmo é uma definição formal da hierarquia de funcionários de uma empresa de desenvolvimento de software de
+grande porte.
+Resposta: c
+
+Q.2 Assinale a opção que não apresenta um exemplo de linguagem de programação.
+a)	Delphi
+b)	De máquina
+c)	Assembly
+d)	Windows xp
+e)	Visual basic
+Resposta: d
+
+Q.3 Qual é o utilitário responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível,
+um programa de linguagem de máquina não executável chamado módulo-objeto?
+a)	Interpretador
+b)	Depurador
+c)	Loader
+d)	Linker
+e)	Compilador
+Resposta: e
+
+Q.4 A expressão Z = X % Y corresponde a Z igual
+a)	A X% do valor de Y.
+b)	Ao resto da divisão de Y por X.
+c)	Ao resto da divisão de X por Y.
+d)	Ao quociente da divisão de X por Y.
+e)	Ao quociente da divisão de Y por X.
+Resposta: c
+
+Q.5 Fluxograma é um tipo de:
+a)	Representação gráfica de algoritmos.
+b)	Informação sobre tipos de dados.
+c)	Livro de análise de sistemas.
+d)	Análise de sistemas
+Resposta: a
+
+Q.6 Assinale a alternativa que contém o símbolo utilizado em fluxogramas de sistemas de processamento de dados para
+identificar saídas impressas como, por exemplo, a emissão de um ou vários relatórios
+    ___
+a) (___(
+    ___
+b) |   |
+    \ /
+c) _______
+  |     __|
+  |____/
+   ______
+d)|      |
+  |______|
+Resposta: c
+
+Q.7 Relacione os símbolos utilizados no fluxograma com seus respectivos nomes e, a seguir, assinale a alternativa que
+contém a seqüência correta.
+1 - Terminal  ( )  ______
+                  |      |
+                  |______|
+
+2 – Seta de fluxo de dados ( )   ___
+                                (___)
+
+3 - Processamento ( )  ______
+                      /      )
+                      \______)
+
+4 – Entrada de dados ou operação manual  ( ) ________
+                                             \      /
+                                              \____/
+
+5 – Entrada e saída de dados ( )  _______
+                                 |     __|
+                                 |____/
+
+6 – Saída de dados em vídeo ( )    _______
+                                  /      /
+                                 /______/
+
+7 – Saída de dados em impressora ( )    /\
+                                       /  \
+                                      /    \
+                                      \    /
+                                       \  /
+                                        \/
+
+8 - Decisão  ( ) ----->
+
+Resposta: 3 – 1 – 6 – 4 – 7 – 5 – 8 – 2

@@ -1,0 +1,65 @@
+Aula de exercicios 10
+
+Q.1 Observe o trecho de programa:
+
+public class Exemplo {
+public static void main(String[] args){
+System.out.println("Marinha do Brasil");
+}
+}
+
+Com base na classe Java acima, assinale a opção correta.
+
+a) O método main necessita receber o array como parâmetro para ser executado
+b) Os modificadores public e class são desnecessários para executar o código
+c) Sua execução dependerá da versão da JVM em uso
+d) Essa classe não será executada pela JVM
+e) O método main é o primeiro a ser chamado e executado pela JVM
+Resposta: E
+
+Q.2 Observe o código Java abaixo:
+
+public class Teste{
+public static void main(String[] args) {
+String nome = "João";
+imprimeNome("Empty"(;
+}
+public static void imprimeNome(String nome) {
+if(!nome.isEmpty()){
+System.out.println("Tudo bem" + nome + "?");
+} else {
+System.out.println("O nome é " + nome + "?");
+}
+}
+}
+
+Qual será a saída do programa acima?
+
+a) Tudo bem Empty?
+b) Tudo bem João?
+c) O nome é Empty?
+d) O nome é João?
+e) Tudo bem Empty? O nome é João?
+Resposta: A
+
+Q.3 O que será impresso quando o seguinte programa escrito na linguagem Java for compilado e executado?
+
+class Teste {
+public static void main(String[] args) {
+char ch;
+String test2 = "abcde";
+String test = new String ("abcde";
+if(test.equals(test2)) {
+ch = (test == test2)? test.charAt(0) : test.charAt(1);
+} else {
+ch = (test == test2) ? test.charAt(2) : test.charAt(3);
+}
+System.out.println(ch);
+}
+
+a) a
+b) b
+c) c
+d) d
+e) e
+Resposta: B
