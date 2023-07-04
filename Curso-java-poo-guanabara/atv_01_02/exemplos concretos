@@ -1,0 +1,46 @@
+exemplos concreto
+
+ex1. Pessoa
+public class Pessoa {
+    private String nome;
+    private int idade;
+
+    public Pessoa(String nome, int idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+}
+ex2. Retangulo
+public class Retangulo {
+    private double comprimento;
+    private double largura;
+
+    public Retangulo(double comprimento, double largura) {
+        this.comprimento = comprimento;
+        this.largura = largura;
+    }
+
+    public double getComprimento() {
+        return comprimento;
+    }
+
+    public double getLargura() {
+        return largura;
+    }
+
+    public double calcularArea() {
+        return comprimento * largura;
+    }
+
+    public double calcularPerimetro() {
+        return 2 * (comprimento + largura);
+    }
+}

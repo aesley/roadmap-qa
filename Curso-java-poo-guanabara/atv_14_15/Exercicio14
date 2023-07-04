@@ -1,0 +1,100 @@
+1. Segundo Deitel (2010) com relação à Linguagem de Programação JAVA, é correto afirmar que:
+
+a) Um constructor pode ter um nome diferente de sua classe
+b) O compilador fornece um constructor padrão sem parâmetros em
+qualquer clase que não incluí explicitamente um construtor
+c) Se uma classe não incluir um constructor, as variáveis de instância
+não são inicializadas
+d) Não existe o conceito de constructor na linguagem JAVA
+Resposta: B
+
+2. Uma das formas de reutilização de software é a criação de uma classe que absorve membros
+de outra classe já existente. A nova classe é aprimorada com capacidades novas ou modificadas.
+
+a) Recursão
+b) Herança
+c) Orientação a aspectos
+d) Chamada por parâmetros
+Resposta: B
+
+3. Observe o diagrama a seguir e assinale a alternativa correta, no que diz a respeito à classe
+DecimalFormat
+
+a) Qualquer classe dada será ascendente de Format
+b) DecimalFormat é descendente de Format
+c) DecimalFormat é ancestral do Format
+d) ChoiceFormat é filha de DecimalFormat
+Resposta: B
+
+4. Segundo Deitel(2010), fornecer uma superclasse apropriada a partir da qual outras classes podem
+herdar e, assim, compartilhar um design comum, é o propósito de:
+
+a) Um objeto
+b) Uma subclasse
+c) Uma classe abstrata
+d) Um construtor
+Resposta: C
+
+5. Entende-se por método abstrato um método:
+
+a) Declarado, mas não implementado
+b) Declarado e implementado
+c) Não declarado, mas implementado
+d) Não declarado e não implementado
+Resposta: A
+
+6. Informe se é falso ou verdadeiro o que se forma sobre o conceito de herança da POO.
+
+( ) A herança permite basear uma nova classe na definição de outra classe
+( ) Não se pode sobrepor um comportamento de uma superclasse em uma subclasse
+( ) Com o mecanismo de herança, é possível estabelecer relacionamentos "é um" entre classes
+
+a) V-V-F
+b) V-F-V
+c) V-V-V
+d) F-F-V
+Resposta: B
+
+7. Ao programar em PHP orientado a objetos e declarar uma classe com a palavra-chave final,
+conforme o código abaixo, pode-se afirmar que:
+
+<?php
+    final class ClasseA{
+
+    }
+?>
+
+a) As subclasses de ClasseA não herdarão seus métodos
+b) A ClasseA não poderá ser instaciada
+c) A ClasseA não poderá ser subclasses
+d) A ClasseA não poderá ter métodos
+Resposta: C
+
+8. Em relação à Programação Orientada a Objetos, assinale a opção correta.
+
+a) Os membros private de uma superclasse são herados pelas suas subclasses
+b) Um método public da superclasse pode tornar-se um método protected ou private na subclasse
+c) Um método protected da superclasse pode tornar-se um método private de subclasse
+d) Utilizar acesso protected oferece um nível intermediário entre public e private
+Resposta: D
+
+9. Marque a alternativa que completa corretamente a lacuna.
+
+Ao programar em PHP utilizando-se o paradigma de orientação a objeto, utiliza-se o símbolo _____
+para poder acessar as funções definidas em uma classe.
+
+a) .
+b) >
+c) =>
+d) ->
+Resposta: D
+
+10. Segundo Deitel(2010), em POO, o conceito que permite escrever programas que processam objetos
+que compartilham a mesma superclasse (direta e indiretamente) como se todos fossem objetos dessa
+superclasse, é conhecido como:
+
+a) Associação
+b) Poliformismo
+c) Atributo
+d) Encapsulamento
+Resposta: B

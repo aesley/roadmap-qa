@@ -1,0 +1,164 @@
+Exercicio_09
+
+1. Uma casa está para uma planta arquitetônica assim como um objeto está para...
+
+a) Um método
+b) Uma propriedade
+c) Uma classe
+d) Um atributo
+Resposta: C
+
+2. A programação orientada a objetos se preocupa em produzir software que tenha
+as seguintes características...
+
+a) Natural, confiável, reutilizável, manutenível, extensível e oportuno
+b) Natural, mensurável, manutenível, instantâneo, acessível e confiável
+c) Confiável, reutilizável, extensível, mensurável, acessível e fácil de usar
+d) Extensível, natural, mensurável, reutilizável, instantâneo e simples
+Resposta: A
+
+3. Assinale a alternativa incorreta com relação ao conceito de classe e
+objeto em POO...
+
+a) Uma classe é instância de um objeto
+b) Um objeto é uma construção de software que encapsula estado e comportamento
+c) Uma classe define os atributos e comportamentos, compartilhados por um tipo de objeto
+d) Em uma Linguagem POO pura, tudo é um objeto, desde os tipos mais básicos
+Resposta: A
+
+4. Correlacione a coluna da esquerda com a da direita e assinale a alternativa que
+contém a sequência correta...
+
+1 Atributo
+2 Classe
+3 Comportamento
+4 Domínio
+5 Objeto
+
+( ) Ação executada por um objeto
+( ) Define os atributos e comportamentos comuns
+( ) Características de uma classe que é visível
+( ) Construção de software que encapsula estado e comportamentos
+( ) Espaço onde o problema reside
+
+a) 3,2,4,5,1
+b) 3,2,1,4,4
+c) 2,3,1,5,4
+d) 2,4,3,1,5
+Resposta: B
+
+5. Assinale a alternativa incorreta sobre a definição de termos usados em POO:
+
+a) Uma variável interna é um valor mantido dentro do objeto
+b) Atributos são as características de uma classe visíveis externamente
+c) Comportamento são as as características de uma casse invisíveis externamente
+d) O estado de um objeto é o significado combinado das variáveis internas do objeto
+Resposta: C
+
+6. Associe as colunas a seguir, marque a opção que contém a sequência correta:
+
+1 Construtor
+2 Acessor
+3 Mutante
+4 Tipos
+
+( ) Métodos que são acesso aos dados internos
+( ) Define as diferentes espécies de valores que podem ser usados
+( ) Métodos que permitem que se altere o estado de um objeto
+( ) Métodos usados para inicializar objetos durante a instanciação
+
+a) 1,2,3,4
+b) 2,4,1,3
+c) 2,4,3,1
+d) 4,2,3,1
+Resposta: C
+
+7. Quais são os três pilares da Programação Orientada a Objetos?
+
+a) Herança, polimorfismo e instância
+b) Herança, polimorfismo e metodologia
+c) Encapsulamento, herança e polimorfismo
+d) Encapsulamento, polimorfismo e metodologia
+Resposta: C
+
+8) Correlacione a coluna da esquerda com a da direita e assinale a
+alternativa que contém a sequência correta
+
+1 Classe
+2 Interface
+3 Construtor
+4 Objeto
+
+( ) Define o que uma entidade pode fazer com o objeto
+( ) Instanciação de uma classe
+( ) Define os atributos e comportamentos compartilhados
+( ) Utilizado para inicializar objetos
+
+a) 1,2,4,3
+b) 1,4,2,3
+c) 2,3,1,4
+d) 2,4,1,3
+Resposta: D
+
+9. A maioria das linguagens orientadas a objetos suporta quais níveis de acesso?
+
+a) Secreto, público e primário
+b) Público, protegido e privado
+c) Público, protegido e primário
+d) Público, privado e secundário
+Resposta: B
+
+10. No contexto dos níveis de acesso, selecione a alternativa que contém o
+nível que apenas garante o acesso para aquele objeto e suas subclasses...
+
+a) Público
+b) Protegido
+c) Privado
+d) Oculto
+Resposta: B
+
+11. A proteção de atributos e operações das classes, fazendo com que estas se
+comuniquem com o meio externo por meio de suas interfaces, define o conceito de...
+
+a) Polimorfismo
+b) Encapsulamento
+c) Herança
+d) Agregação
+Resposta: B
+
+12. Quando se utiliza o conceito de encapsulamento da POO, enquanto a ______ define
+os detalhes internos do componente, a ______ lista os serviços fornecidos por ele.
+
+a) Interface - Implementação
+b) Classe - Implementação
+c) Interface - Classe
+d) Implementação - Interface
+Resposta: D
+
+13. ______ é a característica da POO que permite separar o programa em várias partes
+menores e independentes. Cada parte possui uma implementação isolada e realiza seu
+trabalho de forma autônoma. Com essa característica é possível ocultar os detalhes
+internos de cada parte através de uma interface.
+
+a) Herança
+b) Hierarquia
+c) Polimorfismo
+d) Encapsulamento
+Resposta: D
+
+14. Qual é o conceito de POO que significa representar uma entidade, incluindo apenas
+seus atributos mais relevantes?
+
+a) Encapsulamento
+b) Polimorfismo
+c) Herança
+d) Abstração
+Resposta: D
+
+15. Com relação aos conceitos de POO, assinale a opção incorreta...
+
+a) Classes são tipos abstratos de dados
+b) Objetos são instâncias de uma classe
+c) Subclasse é uma classe definida por meio de outra classe
+d) Atributos são subprogramas que definem as operações em objetos de uma classe
+Resposta: D
